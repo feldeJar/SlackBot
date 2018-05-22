@@ -1,0 +1,2 @@
+# SlackBot
+Bot for Slack
